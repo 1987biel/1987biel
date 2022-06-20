@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently  full-time studying programming
 - 🌱 I’m currently learning languages ​​like java script, html, ccs
-- ⚡ Fun fact: I am an investor on the B3 stock exchange.
+- ⚡ Fun fact: I am an investor on the B3 stock exchange
 -->
