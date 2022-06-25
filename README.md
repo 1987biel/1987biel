@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently  full-time studying programming
 - 🌱 I’m currently learning languages ​​like java script, html, ccs
 - ⚡ Fun fact: I am an investor on the B3 stock exchange
+- 👩‍💻 Currently studying: HTML, CSS, JavaScript
+- 👨‍🎓 Fun Fact: I'm always learning and exploring new concepts of known and new things!
+
 -->
 <div align="center">
   <a href="https://github.com/1987biel">
