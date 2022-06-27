@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 👨‍🎓 Fun Fact: I'm always learning and exploring new concepts of known and new things!
 
 -->
+
 <div align="center">
   <a href="https://github.com/1987biel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1987biel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=1987biel" height="150" alt="languages graph"  />
 </div>
-  
+  <h3>:memo: Learning</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 ##
   
   <div>
+  <h3> :speech_balloon: Contact me</h3>
    <a href="https://www.instagram.com/gabrielslacorte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR(https://discord.com/channels/@me)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:biellacorte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
