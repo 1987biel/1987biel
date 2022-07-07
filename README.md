@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/1987biel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1987biel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=1987biel" height="150" alt="languages graph"  />
+  <a href="https://github.com/LacorteGabriel1987">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LacorteGabriel1987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=LacorteGabriel1987" height="150" alt="languages graph"  />
 </div>
   <h3>:memo: Learning</h3>
 <div style="display: inline_block"><br>
